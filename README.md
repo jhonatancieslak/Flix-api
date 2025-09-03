@@ -21,12 +21,12 @@ Cadastro e gerenciamento de Atores
 
 Cadastro de Gêneros
 
-Gerenciamento de Classificações (faixa etária / rating)
+Cadastro de Reviews
 
 Relacionamento entre filmes, atores e gêneros
 
 
-git clone https://github.com/seu-usuario/flix-api.git
+git clone https://github.com/jhonatancieslak/Flix-api.git
 cd flix-api
 
 
